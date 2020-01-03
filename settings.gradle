@@ -1,0 +1,2 @@
+include ':hahajing'
+rootProject.name='My Application'
